@@ -1,0 +1,2 @@
+Receptor: #> MolAICal-xxx\molaical.exe -dock receptor -i 1Z68.pdb
+Ligand: #> MolAICal-xxx\molaical.exe -dock ligand -i FMP (or N-FMP).pdb
